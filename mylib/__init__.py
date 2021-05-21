@@ -1,3 +1,3 @@
-from hello import say
+from mylib.hello import say
 
-say()
+print(say)

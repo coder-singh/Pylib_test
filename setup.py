@@ -1,5 +1,5 @@
 setuptools.setup(
-    name="Thinklink.io",
+    name="mylib",
     version="1.0",
     author="Thinklink",
     author_email="info@thinklink.io",
